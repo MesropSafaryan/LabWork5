@@ -1,0 +1,13 @@
+D:\vs project\LabWork5\MainMenu\bin\Debug\MainMenu.dll
+D:\vs project\LabWork5\MainMenu\bin\Debug\MainMenu.pdb
+D:\vs project\LabWork5\MainMenu\bin\Debug\BLL.dll
+D:\vs project\LabWork5\MainMenu\bin\Debug\DAL.dll
+D:\vs project\LabWork5\MainMenu\bin\Debug\EntityService.dll
+D:\vs project\LabWork5\MainMenu\bin\Debug\BLL.pdb
+D:\vs project\LabWork5\MainMenu\bin\Debug\DAL.pdb
+D:\vs project\LabWork5\MainMenu\bin\Debug\EntityService.pdb
+D:\vs project\LabWork5\MainMenu\obj\Debug\MainMenu.csprojAssemblyReference.cache
+D:\vs project\LabWork5\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+D:\vs project\LabWork5\MainMenu\obj\Debug\MainMenu.csproj.CopyComplete
+D:\vs project\LabWork5\MainMenu\obj\Debug\MainMenu.dll
+D:\vs project\LabWork5\MainMenu\obj\Debug\MainMenu.pdb

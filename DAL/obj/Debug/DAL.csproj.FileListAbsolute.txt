@@ -1,0 +1,6 @@
+D:\vs project\LabWork5\DAL\bin\Debug\DAL.dll
+D:\vs project\LabWork5\DAL\bin\Debug\DAL.pdb
+D:\vs project\LabWork5\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\vs project\LabWork5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\vs project\LabWork5\DAL\obj\Debug\DAL.dll
+D:\vs project\LabWork5\DAL\obj\Debug\DAL.pdb

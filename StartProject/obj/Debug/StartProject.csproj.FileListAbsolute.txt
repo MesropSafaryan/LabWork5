@@ -1,0 +1,16 @@
+D:\vs project\LabWork5\StartProject\bin\Debug\StartProject.exe.config
+D:\vs project\LabWork5\StartProject\bin\Debug\StartProject.exe
+D:\vs project\LabWork5\StartProject\bin\Debug\StartProject.pdb
+D:\vs project\LabWork5\StartProject\bin\Debug\MainMenu.dll
+D:\vs project\LabWork5\StartProject\bin\Debug\BLL.dll
+D:\vs project\LabWork5\StartProject\bin\Debug\DAL.dll
+D:\vs project\LabWork5\StartProject\bin\Debug\EntityService.dll
+D:\vs project\LabWork5\StartProject\bin\Debug\MainMenu.pdb
+D:\vs project\LabWork5\StartProject\bin\Debug\BLL.pdb
+D:\vs project\LabWork5\StartProject\bin\Debug\DAL.pdb
+D:\vs project\LabWork5\StartProject\bin\Debug\EntityService.pdb
+D:\vs project\LabWork5\StartProject\obj\Debug\StartProject.csprojAssemblyReference.cache
+D:\vs project\LabWork5\StartProject\obj\Debug\StartProject.csproj.CoreCompileInputs.cache
+D:\vs project\LabWork5\StartProject\obj\Debug\StartProject.csproj.CopyComplete
+D:\vs project\LabWork5\StartProject\obj\Debug\StartProject.exe
+D:\vs project\LabWork5\StartProject\obj\Debug\StartProject.pdb
